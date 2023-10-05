@@ -1,0 +1,19 @@
+/* App.css */
+.App {
+    /* Set the background image and specify its path */
+    background-image: url('path/to/your-image.jpg');
+
+    /* Set the background image to cover the entire container */
+    background-size: cover;
+
+    /* Center the background image vertically and horizontally */
+    background-position: center center;
+
+    /* Repeat the background image only vertically, horizontally, or not at all */
+    background-repeat: no-repeat;
+
+    /* Add a background color as a fallback in case the image doesn't load or cover the entire container */
+    background-color: #f0f0f0;
+
+    /* Add other CSS styles for your content */
+}
