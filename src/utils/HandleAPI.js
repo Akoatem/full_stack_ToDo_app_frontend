@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 
-const baseUrl = "https://full-stack-todo-app-backend-zq2o.onrender.com";
+const baseUrl = "https://full-stack-todo-app-backend-xd5z.onrender.com";
 
 // get method
 // const getAllToDo =  (setToDo) =>{
